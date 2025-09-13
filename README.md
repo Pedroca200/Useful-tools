@@ -18,7 +18,9 @@ chmod +x instalar_programas.sh
 e em seguida
 
 ```shell
-./dnfinstall.sh
+./dnftools.sh
 ```
 
 agora é só esperar 😎😎
+
+## Debian/Ubuntu/Linux Mint
